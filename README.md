@@ -1,4 +1,4 @@
-Application de Todo-List React
+Application de Todo-List React : 
 
 Description
 Cette application de Todo-List est développée en utilisant React, une bibliothèque JavaScript populaire pour la création d'interfaces utilisateur dynamiques. L'application permet aux utilisateurs de gérer leurs tâches quotidiennes en ajoutant, modifiant et supprimant des éléments de leur liste de tâches.
